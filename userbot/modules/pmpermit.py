@@ -34,7 +34,7 @@ async def permitpm(e):
 
                 await e.reply(
                     "`Bleep Blop! This is a Bot. Don't fret. \n\n`"
-                    "`If You Are human join Anie bot support chat @AnieRoSupport` \n\n"
+                    "`If You Are human join Anie bot support chat' @AnieRoSupport` \n\n"
                     "`If You Are One Of My Friends Kindly Wait Till Me Come Online.`\n\n"
                     "`As far as i know, he doesn't usually approve Retards.`"
                 )
