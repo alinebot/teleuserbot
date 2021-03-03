@@ -1,4 +1,4 @@
-![Maximus](https://telegra.ph/file/66cdc2a48c85419a03e93.jpg)
+![Maximus](https://telegra.ph/file/64a230c34720389939cd7.jpg)
 
 ---
 # Telegram-UserBot
